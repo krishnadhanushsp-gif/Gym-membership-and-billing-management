@@ -8,9 +8,9 @@
 
 ### Student Details
 
-* **Student Name:** KARSNA N
-* **Roll Number:** 717825I224
-* **Register Number:** 717825I224
+* **Student Name:** DHANUSH KRISHNA S P
+* **Roll Number:** 717825I211
+* **Register Number:** 717825I211
 * **Year / Semester / Section:** II / III / B
 * **Department:** Artificial Intelligence and Data Science (AD)
 * **Course Code \& Title:** 23CSR306 - Java Programming
